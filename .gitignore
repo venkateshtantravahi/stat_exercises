@@ -6,6 +6,16 @@ __pycache__/
 # C extensions
 *.so
 
+# Translations
+*.mo
+*.pot
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
 .DS_Store
 .virtual_documents
 *.layout
@@ -155,6 +165,11 @@ venv.bak/
 .dmypy.json
 dmypy.json
 
+# Mr Developer
+.mr.developer.cfg
+.project
+.pydevproject
+
 # Pyre type checker
 .pyre/
 
@@ -173,3 +188,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# jupyterlite
+*.doit.db
+_output
