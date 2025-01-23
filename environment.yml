@@ -10,6 +10,5 @@ dependencies:
   - seaborn
   - scipy
   - statsmodels
-  - voila
   - jupyter
   - ipywidgets
