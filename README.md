@@ -158,7 +158,7 @@ pip install requirements.txt
 
 ### Contributions
 ---
-Contributors please refer <a href="https://github.com/venkateshtantravahi/Python-0-to-hero-/blob/main/contribution.md">Contribution guidelines</a> before making a PR.
+Contributors please refer <a href="https://github.com/venkateshtantravahi/stat_exercises/blob/main/contribution_guidelines.md">Contribution guidelines</a> before making a PR.
 
 ### Liked Content
 
