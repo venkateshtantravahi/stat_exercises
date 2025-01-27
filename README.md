@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/github/languages/count/venkateshtantravahi/stat_exercises" />
   </a>
   <a href="https://github.com/venkateshtantravahi/stat_exercises/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/venkateshtantravahi/stat_exercises" height="20" alt="License">
+    <img alt="GitHub License" src="https://img.shields.io/github/license/venkateshtantravahi/stat_exercises">
   </a>
   <a>
     <img src="https://img.shields.io/github/repo-size/venkateshtantravahi/stat_exercises">
