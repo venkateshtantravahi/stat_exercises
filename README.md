@@ -126,11 +126,17 @@ pip install requirements.txt
 ## 🗂️ Repository Structure
     stat_exercises/
     ├── notebooks/                    # Folder containing topic-specific Jupyter Notebooks
-    │   ├── descriptive_statistics/   # Exercises on descriptive statistics
-    │   ├── visualization/            # Exercises on data visualization and EDA
-    │   ├── hypothesis_testing/       # Exercises on hypothesis testing
-    │   ├── probability_distributions/ # Exercises on probability distributions
+    │   ├── descriptive_statistics.ipynb   # Exercises on descriptive statistics
+    │   ├── visualization.ipynb             # Exercises on data visualization and EDA
+    │   ├── hypothesis_testing.ipynb        # Exercises on hypothesis testing
+    │   ├── probability_distributions.ipynb  # Exercises on probability distributions
     │   └── ...                       # Additional topics
+    ├── solutions/                    # Folder containing topic-specific Jupyter Notebooks
+    │   ├── descriptive_statistics.ipynb   # Exercise solution on descriptive statistics
+    │   ├── visualization.ipynb             # Exercises solution on data visualization and EDA
+    │   ├── hypothesis_testing.ipynb        # Exercises solution on hypothesis testing
+    │   ├── probability_distributions.ipynb  # Exercises solution on probability distributions
+    │   └── ... 
     ├── datasets/                     # Public datasets used in notebooks
     │   ├── dataset1.csv
     │   ├── dataset2.csv
